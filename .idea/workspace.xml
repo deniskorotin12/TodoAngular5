@@ -4,7 +4,6 @@
     <list default="true" id="d2ae248a-a130-403d-b3fb-e89101d62fd9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo-Angular4" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo-Angular4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo-Angular4/src/app/shared/todo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo-Angular4/src/app/shared/todo.service.ts" afterDir="false" />
     </list>
     <ignored path="ToDo-Angular4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,8 +75,8 @@
       <file leaf-file-name="todo-form.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ToDo-Angular4/src/app/todo-form/todo-form.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="115">
+              <caret line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -104,9 +103,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>TodoSe</find>
+      <find>todo-f</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="deniskorotin12 &lt;deniskorotin4@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GotoClassSymbolConfiguration">
@@ -203,10 +208,10 @@
         <option value="$PROJECT_DIR$/Server/index.js" />
         <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/todo-form/todo-form.component.html" />
         <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/todo-form/todo-form.component.ts" />
         <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/shared/TodoModel.ts" />
         <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/shared/todo.service.ts" />
+        <option value="$PROJECT_DIR$/ToDo-Angular4/src/app/todo-form/todo-form.component.html" />
       </list>
     </option>
   </component>
@@ -263,7 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,6 +313,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,19 +412,26 @@
       <workItem from="1525701799359" duration="17000" />
       <workItem from="1525702040642" duration="3000" />
       <workItem from="1525702061412" duration="28000" />
-      <workItem from="1525703541237" duration="240000" />
+      <workItem from="1525703541237" duration="524000" />
     </task>
+    <task id="LOCAL-00001" summary="ending of project">
+      <created>1525703873705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525703873705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40927000" />
+    <option name="totallyTimeSpent" value="41211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -427,7 +439,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24958494" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910052" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286638" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -485,6 +497,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ending of project" />
+    <option name="LAST_COMMIT_MESSAGE" value="ending of project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -822,8 +838,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ToDo-Angular4/src/app/todo-form/todo-form.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="115">
+          <caret line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
