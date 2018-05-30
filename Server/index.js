@@ -52,6 +52,11 @@ app.post('/deletetodo', (req, res) => {
             .catch(err => console.err(err));
   });
 
+  app.get('/addroute', (req,res) => {
+        res.send('Hello from test route')
+  })
+
 app.listen(3000, function () {
     console.log("listening on port 300")
 });
+
